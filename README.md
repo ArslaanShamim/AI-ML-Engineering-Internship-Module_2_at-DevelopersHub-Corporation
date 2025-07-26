@@ -23,5 +23,5 @@ Methodology: Implemented scikit-learn's Pipeline and ColumnTransformer APIs to a
 
 Result: Created a scalable and efficient pipeline for a classification task, showcasing best practices in ML engineering.
 
-
+---
 Feel free to contact me for more details about these projects.

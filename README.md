@@ -1,6 +1,6 @@
 # AI-ML-Engineering-Internship-Module_2_at-DevelopersHub-Corporation
 
-This repository contains solutions to three advanced machine learning tasks completed during the AI/ML Engineering internship at Codeway. The projects demonstrate skills in multimodal learning, NLP with transformers, and building end-to-end ML pipelines.
+This repository contains solutions to three advanced machine learning tasks completed during the AI/ML Engineering internship at DevelopersHub-Corporation. The projects demonstrate skills in multimodal learning, NLP with transformers, and building end-to-end ML pipelines.
 
 ## Task 1: Multimodal ML Housing Price Prediction Using Images + Tabular Data
 **Objective:** Predict house prices using both structured data and images.
